@@ -1,2 +1,2 @@
 # Nuclear-Physics
-There is lecture note about Nuclear Physics by NarayanGuo.
+There is a lecture note about Nuclear Physics by NarayanGuo.
